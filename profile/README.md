@@ -63,5 +63,5 @@ The Disclaimer, Terms of Service, and Privacy Policy of iNKORE General Services 
 
 Follow our social channels ([inkore.net/socials](https://www.inkore.net/socials)) or join the community forum for development sneak peeks. We’re baking this thoughtfully - thank you for your patience!  
 
-> *"Masterpiece takes time, but we’re committed to getting it right."*  
-> — The Inkways Team  
+> ### *"Masterpiece takes time, but we’re committed to getting it right."*  
+> — The Inkways Team from [iNKORE Studios](https://github.com/iNKORE-NET)
